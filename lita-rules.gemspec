@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-rules"
-  spec.version       = "0.0.1.beta"
+  spec.version       = "0.0.1"
   spec.authors       = ["Nate Holland"]
   spec.email         = ["nateh@spiceworks.com"]
   spec.description   = "Every robot needs to know the rules"
